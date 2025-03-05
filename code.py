@@ -1,6 +1,9 @@
 import cv2
 import matplotlib.pyplot as plt
 
+#LINK VIDEO  https://youtu.be/BBCXYp0oOLs
+
+
 # Carregar duas imagens
 image1 = cv2.imread('/home/joao/Downloads/test1.jpg')
 image2 = cv2.imread('/home/joao/Downloads/teste2.jpg')
